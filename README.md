@@ -1,6 +1,5 @@
 ### Hi there 👋, I am Miraz
 #### Full Stack Web Developer
-![Full Stack Web Developer](https://media.licdn.com/dms/image/C5103AQEM2XKnrGxJoA/profile-displayphoto-shrink_200_200/0/1567358615997?e=1716422400&v=beta&t=M4b0CJ6f5o10LdLFgvrz02dMK9o2k2GjZX3lpFW-uQM)
 
 I am a full stack web developer passionate about crafting seamless user experiences and robust backend solutions.
 
