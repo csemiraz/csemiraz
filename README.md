@@ -3,7 +3,7 @@
 
 I am a full stack web developer passionate about crafting seamless user experiences and robust backend solutions.
 
-Skills: LARAVEL / VUE JS / TAILWIND / BOOTSTRAP / PHP / GIT / JS / HTML / CSS
+Skills: LARAVEL / REACT JS / VUE JS / TAILWIND / BOOTSTRAP / PHP / GIT / JS / HTML / CSS
 
 - 🔭 I’m currently working on Laravel framework. 
 - 🌱 I’m currently learning vue js, tailwind css 
