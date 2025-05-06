@@ -10,7 +10,7 @@ Skills: LARAVEL / REACT JS / VUE JS / TAILWIND / BOOTSTRAP / PHP / GIT / JS / HT
 - ⚡ Fun fact: Watching movies, sports 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/csemiraz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-mirazul-islam-1a62b0aa//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mirazul.raz)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/csemiraz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/cse-miraz/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mirazul.raz)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csemiraz)](https://github.com/anuraghazra/github-readme-stats)
 
